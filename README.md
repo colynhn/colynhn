@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @colynhn
-- 👀 I’m interested in NLU in Dialog System & KBQA in QA
+- 👀 I’m interested in NLU in Dialog System & FAQ、KBQA etc.
 - 🌱 I’m currently learning QA
 - 📫 How to reach me: colynhn@gmail.com or colynhn@foxmail.com 
 
