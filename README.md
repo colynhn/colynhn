@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colynhn
 - 👀 I’m interested in NLU in Dialog System 、QA such as FAQ、KBQA & AIGC etc.
-- 🌱 I’m currently learning QA
+- 🌱 I’m currently focusing on QA & AIGC.
 - 📫 How to reach me: colynhn@gmail.com or colynhn@foxmail.com 
 
 <!---
